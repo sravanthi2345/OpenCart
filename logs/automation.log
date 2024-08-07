@@ -1,0 +1,49 @@
+2024-08-06 16:10:55 INFO  TC002_Login:17 - ***Started TC002_Login****
+2024-08-06 16:10:55 INFO  TC002_Login:22 - Clicked On My Account Link In HomePage
+2024-08-06 16:10:56 INFO  TC002_Login:24 - Clicked On Login Link
+2024-08-06 16:10:57 INFO  TC002_Login:39 - ****Finished TC002_Login****
+2024-08-06 16:11:30 INFO  TC002_Login:17 - ***Started TC002_Login****
+2024-08-06 16:11:30 INFO  TC002_Login:22 - Clicked On My Account Link In HomePage
+2024-08-06 16:11:30 INFO  TC002_Login:24 - Clicked On Login Link
+2024-08-06 16:11:32 INFO  TC002_Login:39 - ****Finished TC002_Login****
+2024-08-06 16:13:09 INFO  TC001_Register:19 - *****Starting the TC001_Register***** 
+2024-08-06 16:13:10 INFO  TC001_Register:22 - Clicked On Account Link
+2024-08-06 16:13:10 INFO  TC001_Register:24 - Clicked On Register Link
+2024-08-06 16:13:12 INFO  TC001_Register:35 - ****Validating expected message****
+2024-08-06 16:13:12 INFO  TC001_Register:54 - ****Ended the TC001_Register*****
+2024-08-06 16:14:07 INFO  TC002_Login:17 - ***Started TC002_Login****
+2024-08-06 16:14:07 INFO  TC002_Login:22 - Clicked On My Account Link In HomePage
+2024-08-06 16:14:08 INFO  TC002_Login:24 - Clicked On Login Link
+2024-08-06 16:14:09 INFO  TC002_Login:39 - ****Finished TC002_Login****
+2024-08-06 16:15:04 INFO  TC002_Login:17 - ***Started TC002_Login****
+2024-08-06 16:15:04 INFO  TC002_Login:22 - Clicked On My Account Link In HomePage
+2024-08-06 16:15:04 INFO  TC002_Login:24 - Clicked On Login Link
+2024-08-06 16:15:06 INFO  TC002_Login:39 - ****Finished TC002_Login****
+2024-08-06 16:15:53 INFO  TC002_Login:17 - ***Started TC002_Login****
+2024-08-06 16:15:53 INFO  TC002_Login:22 - Clicked On My Account Link In HomePage
+2024-08-06 16:15:53 INFO  TC002_Login:24 - Clicked On Login Link
+2024-08-06 16:15:54 INFO  TC002_Login:39 - ****Finished TC002_Login****
+2024-08-06 16:25:31 INFO  TC002_Login:17 - ***Started TC002_Login****
+2024-08-06 16:25:32 INFO  TC002_Login:22 - Clicked On My Account Link In HomePage
+2024-08-06 16:25:32 INFO  TC002_Login:24 - Clicked On Login Link
+2024-08-06 16:25:34 INFO  TC002_Login:39 - ****Finished TC002_Login****
+2024-08-06 16:27:03 INFO  TC001_Register:19 - *****Starting the TC001_Register***** 
+2024-08-06 16:27:03 INFO  TC001_Register:22 - Clicked On Account Link
+2024-08-06 16:27:04 INFO  TC001_Register:24 - Clicked On Register Link
+2024-08-06 16:27:05 INFO  TC001_Register:35 - ****Validating expected message****
+2024-08-06 16:27:05 INFO  TC001_Register:54 - ****Ended the TC001_Register*****
+2024-08-06 16:44:00 INFO  TC001_Register:19 - *****Starting the TC001_Register***** 
+2024-08-06 16:44:01 INFO  TC001_Register:22 - Clicked On Account Link
+2024-08-06 16:44:01 INFO  TC001_Register:24 - Clicked On Register Link
+2024-08-06 16:44:03 INFO  TC001_Register:35 - ****Validating expected message****
+2024-08-06 16:44:03 INFO  TC001_Register:54 - ****Ended the TC001_Register*****
+2024-08-06 16:44:51 INFO  TC001_Register:19 - *****Starting the TC001_Register***** 
+2024-08-06 16:44:51 INFO  TC001_Register:22 - Clicked On Account Link
+2024-08-06 16:44:52 INFO  TC001_Register:24 - Clicked On Register Link
+2024-08-06 16:44:53 INFO  TC001_Register:35 - ****Validating expected message****
+2024-08-06 16:44:53 INFO  TC001_Register:54 - ****Ended the TC001_Register*****
+2024-08-06 16:58:01 INFO  TC001_Register:19 - *****Starting the TC001_Register***** 
+2024-08-06 16:58:01 INFO  TC001_Register:22 - Clicked On Account Link
+2024-08-06 16:58:01 INFO  TC001_Register:24 - Clicked On Register Link
+2024-08-06 16:58:02 INFO  TC001_Register:35 - ****Validating expected message****
+2024-08-06 16:58:03 INFO  TC001_Register:54 - ****Ended the TC001_Register*****

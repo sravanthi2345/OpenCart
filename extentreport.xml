@@ -1,0 +1,22 @@
+
+<suite name="Suite">
+<groups>
+<run>
+<include name="sanity"/>
+     <!--<include name="regression"/>-->
+</run>
+</groups>
+<listeners>
+<listener class-name="utilities.ExtentReportUtility"/>
+</listeners>
+<test thread-count="5" name="Test">
+<parameter name="os" value="Windows"/>
+<parameter name="browser" value="chrome"/>
+<classes>
+   <class name="testCases.TC001_Register"/>
+      <class name="testCases.TC002_Login"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->
